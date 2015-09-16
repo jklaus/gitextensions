@@ -1,3 +1,7 @@
+# Branch Information
+This branch is being created to address the issue of Git Config not saving new Merge/Diff tools to the drop down.  This will require refactoring the choices to be stored within some form of resource/config file.
+
+
 # Git Extensions
 
 WARNING: Repository rewritten on 2014-08-24 to reduce its size. Please clone it again. |
